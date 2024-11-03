@@ -3,3 +3,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/WRD%20Esp%20v1.0.xizt'))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/m1tp.xizt'))()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/UESP.xizt'))()
