@@ -16,7 +16,7 @@ _G.WRDESPEnabled = nil --Enables the ESP (Defaults to true)
 _G.WRDESPBoxes = nil --Draws boxes around other players (Defaults to true)
 _G.WRDESPTeamColors = nil --Distinguish different teams by their team color. If the game sets one. (Defaults to true)
 _G.WRDESPTracers = nil --Displays lines leading to other players (Defaults to false)
-_G.WRDESPNames = nil --Displays the names of the players within the ESP box (Defaults to true)
+_G.WRDESPNames = false --Displays the names of the players within the ESP box (Defaults to true)
 
 --Dont edit below
 
