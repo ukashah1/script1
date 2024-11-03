@@ -1,7 +1,7 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/bf%20fog%20remover%20v1.0.xizt'))()
-
+wait(5)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/WRD%20Esp%20v1.0.xizt'))()
-
+wait(5)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/m1tp.xizt'))()
-
+wait(5)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/UESP.xizt'))()
