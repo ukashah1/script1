@@ -1,0 +1,7 @@
+spawn(function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/m1tp.xizt'))()
+end)
+
+spawn(function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ukashah1/script1/refs/heads/main/UESP.xizt'))()
+end)
