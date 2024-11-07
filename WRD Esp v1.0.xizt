@@ -318,15 +318,15 @@ if not _G.WRDESPLoaded then
             Text = box.Name,
             Color = box.Color,
             Center = true,
-            Outline = true,
-            Size = 9,
+            Outline = false,
+            Size = 11,
             Visible = self.Enabled and self.Names
         })
         box.Components["Distance"] = Draw("Text", {
             Color = box.Color,
             Center = true,
-            Outline = true,
-            Size = 9,
+            Outline = false,
+            Size = 10,
             Visible = self.Enabled and self.Names
         })
         
